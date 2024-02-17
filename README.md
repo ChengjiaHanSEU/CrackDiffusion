@@ -1,3 +1,3 @@
 # CrackDiffusion
 
-This is the code for a paper under review.
+This is the reference code for a published paper on Automation in Construction.
